@@ -1,0 +1,5 @@
+{
+  "name": "Student Registration System",
+  "description": "A dynamic student registration website powered by Supabase.",
+  "requestFramePermissions": []
+}
